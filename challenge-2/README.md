@@ -129,7 +129,10 @@ Elegi usar AWS por su robustez y popularidad en el despliegue de aplicaciones a 
 Docker y Docker Compose se utilizaron para gestionar los servicios de la aplicación, asegurando que todas las dependencias estén correctamente configuradas y que los servicios puedan comunicarse entre sí sin problemas. Esta configuración facilita la escalabilidad, portabilidad y mantenimiento de la aplicación en un entorno de producción.
 
 # Referencias:
-<https://www.youtube.com/playlist?list=PLnf4-vBnJ1n323-UT2TZzj9gzahf_VhTF>
+
+[Curso Craftech ](https://www.youtube.com/playlist?list=PLnf4-vBnJ1n323-UT2TZzj9gzahf_VhTF)
+
+[DockerHub](https://hub.docker.com/)
 
 <https://www.youtube.com/watch?v=bbKcUJVUHzM> 
 

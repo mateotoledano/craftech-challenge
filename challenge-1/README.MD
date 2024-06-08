@@ -1,6 +1,6 @@
 # Explicación del Diagrama de Red
 
-El diagrama de red que diseñé para la aplicación web fue realizado con Lucidchart por la comodidad que brinda y porque tengo experiencia utilizándolo. Además, este cuenta con figuras oficiales de AWS, plataforma que elegí por conocimientos y experiencia en la misma. Esta arquitectura tiene como objetivo principal garantizar alta disponibilidad (HA), escalabilidad para manejar cargas variables y el uso de diferentes tipos de bases de datos (relacional y no relacional). A continuación, se describe cada componente y su función en la arquitectura:
+El diagrama de red que diseñé para la aplicación web fue realizado con Lucidchart por la comodidad que brinda y porque tengo experiencia utilizándolo. Además, este cuenta con figuras oficiales de AWS, plataforma que elegí por conocimientos en la misma. Esta arquitectura tiene como objetivo principal garantizar alta disponibilidad (HA), escalabilidad para manejar cargas variables y el uso de diferentes tipos de bases de datos (relacional y no relacional). A continuación, se describe cada componente y su función en la arquitectura:
 
 - **Cliente**: Los usuarios acceden a la aplicación web a través de un navegador.
 - **Amazon Route 53**: Proporciona servicios de DNS, resolviendo los nombres de dominio (como www.example.com) y dirigiendo el tráfico a Amazon CloudFront.

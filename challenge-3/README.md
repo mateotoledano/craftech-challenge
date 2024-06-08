@@ -25,7 +25,11 @@ Para resolver el challenge-3 hice lo siguiente:
     - **Construir la imagen Docker**: Usando el Dockerfile, se crea una nueva imagen con el `index.html` actualizado.
     - **Subir la imagen a la plataforma de contenedores**: Configuré para que la nueva imagen se suba automáticamente a Docker Hub u otro servicio de contenedores.
 
-## 6. Justificacion Docker-Compose
+![](capturas/Imagen-challenge-3.png)
+![](capturas/Imagen2-challenge-3.png)
+
+
+## Justificacion Docker-Compose
 - **Simplicidad y Eficiencia**:
   - Elegí Docker-Compose porque es fácil de usar y ayuda a manejar aplicaciones con varios contenedores. Docker-Compose permite definir todo lo que se necesita para el despliegue en un solo archivo `docker-compose.yml`, lo que hace más fácil configurar y ejecutar los servicios.
 - **Facilidad para Probar y Desplegar**:

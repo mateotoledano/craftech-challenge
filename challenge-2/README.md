@@ -1,27 +1,27 @@
-#Prueba 2 - Despliegue de una aplicación Django y React.js
+# Prueba 2 - Despliegue de una aplicación Django y React.js
 
-**Instrucciones para desplegar el proyecto de manera local**
+## **Instrucciones para desplegar el proyecto de manera local**
 
-\1) Clonar el repositorio:
+1) Clonar el repositorio:
 
 git clone <https://github.com/mateotoledano/craftech-challenge.git>
 
-\2) Mover al directorio raíz del challenge-2:
+2) Mover al directorio raíz del challenge-2:
 
 cd challenge-2
 
-\3) Ejecutar el comando para docker-compose para construir y  levantar los servicios:
+3) Ejecutar el comando para docker-compose para construir y  levantar los servicios:
 
 sudo docker-compose up --build
 
-\4) Acceder al proyecto:
+4) Acceder al proyecto:
 
 Frontend → <http://localhost:3000/>
 
 Backend → <http://localhost:8000/> 
 
 
-**Despliegue local**
+## **Despliegue local**
 
 Para resolver el punto dos de la prueba técnica, seguí una serie de pasos detallados para crear un despliegue dockerizado unificado de la aplicación Django (backend) y React.js (frontend). A continuación explico que fue lo que hice: 
 

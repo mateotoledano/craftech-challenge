@@ -87,8 +87,8 @@ Para desplegar la aplicacion en la nube lo que hice fue lo siguiente: 
 
 - Completé el lanzamiento de la instancia y esperé a que estuviera en estado "running".
 
-![](capturas/Imagen 3.png)
-![](capturas/Imagen 4.png)
+![](capturas/imagen3.png)
+![](capturas/imagen4.png)
 
 **5) Conexión SSH a la Instancia:**
 

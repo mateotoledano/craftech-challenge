@@ -36,3 +36,10 @@ Para resolver el challenge-3 hice lo siguiente:
   - Docker-Compose hace que la configuración sea fácil de copiar y usar en diferentes entornos, lo que es perfecto para pruebas y despliegues continuos. Puedes definir todos los servicios que necesita la aplicación, incluidos volúmenes y redes, en un solo lugar.
 
 Con estos pasos, conseguí automatizar el despliegue de la nueva imagen de nginx con el `index.html` actualizado cada vez que hay un cambio, usando Docker y Docker-Compose para gestionar los contenedores y hacer más fácil el despliegue. La integración con CI asegura que el proceso sea rápido y sencillo.
+
+## Referencias
+
+[Curso Craftech ](https://www.youtube.com/playlist?list=PLnf4-vBnJ1n323-UT2TZzj9gzahf_VhTF)
+
+[DockerHub](https://hub.docker.com/)
+

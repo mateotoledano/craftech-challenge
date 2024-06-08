@@ -62,6 +62,9 @@ Este comando se encarga de construir y levantar los Dockerfiles correspondientes
 
 Opté por usar Docker Compose para gestionar los servicios porque proporciona una forma sencilla y eficiente de definir y ejecutar aplicaciones multi-contenedor. Docker Compose permite aislar cada servicio en su propio contenedor, asegurando que todas las dependencias estén correctamente configuradas y que los servicios puedan comunicarse entre sí sin problemas. Además, facilita la escalabilidad y portabilidad de la aplicación, lo que es ideal para entornos de desarrollo y producción.
 
+![](capturas/Imagen1.png)
+![](capturas/Imagen2.png)
+
 ## **Despliegue en la nube**
 
 Para desplegar la aplicacion en la nube lo que hice fue lo siguiente: 
@@ -83,6 +86,9 @@ Para desplegar la aplicacion en la nube lo que hice fue lo siguiente: 
 **4) Lanzamiento de la Instancia:**
 
 - Completé el lanzamiento de la instancia y esperé a que estuviera en estado "running".
+
+![](capturas/Imagen 3.png)
+![](capturas/Imagen 4.png)
 
 **5) Conexión SSH a la Instancia:**
 
